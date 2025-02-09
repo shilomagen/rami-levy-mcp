@@ -1,5 +1,7 @@
 # Rami Levy MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@shilomagen/rami-levy-mcp)](https://smithery.ai/server/@shilomagen/rami-levy-mcp)
+
 MCP Server for the Rami Levy Online Grocery Store API. This is a proof of concept implementation that demonstrates how to integrate Rami Levy's e-commerce platform with MCP-enabled LLMs.
 
 ## Tools
