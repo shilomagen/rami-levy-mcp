@@ -2,6 +2,8 @@
 
 MCP Server for the Rami Levy Online Grocery Store API. This is a proof of concept implementation that demonstrates how to integrate Rami Levy's e-commerce platform with MCP-enabled LLMs.
 
+<a href="https://glama.ai/mcp/servers/3up0tbfts7"><img width="380" height="200" src="https://glama.ai/mcp/servers/3up0tbfts7/badge" alt="Rami Levy Server MCP server" /></a>
+
 ## Tools
 
 1. `search_items`
